@@ -11,5 +11,7 @@
       * [Questions](challenges/hackthebox/machine-meow/questions.md)
     * [Machine: Fawn](challenges/hackthebox/machine-fawn/README.md)
       * [Questions](challenges/hackthebox/machine-fawn/questions.md)
+    * [Machine: Redeemer](challenges/hackthebox/machine-redeemer/README.md)
+      * [Questions](challenges/hackthebox/machine-redeemer/questions.md)
   * [HackMyVm](challenges/hackmyvm.md)
   * [PicoCTF](challenges/picoctf.md)

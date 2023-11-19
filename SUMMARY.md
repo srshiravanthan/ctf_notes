@@ -7,6 +7,7 @@
     * [MEDIUM](challenges/tryhackme/medium.md)
     * [HIGH](challenges/tryhackme/high.md)
   * [HackTheBox](challenges/hackthebox/README.md)
-    * [Machine: Fawn](challenges/hackthebox/machine-fawn.md)
+    * [Machine: Fawn](challenges/hackthebox/machine-fawn/README.md)
+      * [Questions](challenges/hackthebox/machine-fawn/questions.md)
   * [HackMyVm](challenges/hackmyvm.md)
   * [PicoCTF](challenges/picoctf.md)
